@@ -3,7 +3,9 @@
 <h3>Description:</h3>
 <p>Web Image Scraper is a Python project designed to download images from a web page based on keyword entered in front end search bar. In this example, the project focuses on extracting images related to Narendra Modi from the web. The program recursively traverses links, identifies images with specified keywords in their alt attributes, and saves them to a local directory and even storing in mongodb.
 
-To use the project, clone the repository and modify the example usage section with your preferred URL, save_directory, mongoDB URI. Ensure compliance with the terms of service of the website you are scraping, and consider contributing improvements to benefit the community</p>
+To use the project, clone the repository and modify the example usage section with your preferred URL, save_directory, mongoDB URI. Ensure compliance with the terms of service of the website you are scraping, and consider contributing improvements to benefit the community
+
+Project also contains web_image_scraper.ipynb you can directly use in jypyter notebook</p>
 
 <h3>Explanation:</h3>
 <h6> Dependencies: </h6>
