@@ -41,3 +41,13 @@ review_col = db['image_scrap_data']
 review_col.insert_many(img_data) 
 ```
 
+<h3>Steps to Run Server</h3>
+
+```
+python3 app.py
+Go to browser and enter http://localhost:8000/review
+you will find search bar enter keyword to search and images get downloaded in local and uploaded in mongodb
+```
+![Screenshot 2024-06-24 at 10 50 25 AM](https://github.com/priyankanesargi21/image_scraper/assets/48650792/05d9d320-1e57-451f-9c89-5351eb7c4245)
+
+
